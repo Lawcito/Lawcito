@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Lawcito/count.svg" />  
+</p>
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/Lawcito/Lawcito/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
