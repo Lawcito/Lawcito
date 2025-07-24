@@ -7,13 +7,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:emiraleconegrete@gmail.com">
+  <a href="mailto:emiraleconegrete@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email%20Me-purple?style=for-the-badge" alt="Mail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/emir-negrete">
+  <a href="https://www.linkedin.com/in/emir-negrete" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%8eed11.svg?style=for-the-badge&logo=linkedin&logoColor" alt="Linkedin badge"/>
   </a>
-  <a href="https://lawcito.github.io/portfolio/">
+  <a href="https://lawcito.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Website-purple?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
