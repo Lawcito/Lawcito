@@ -25,7 +25,7 @@ coming soon...
 
 - 👨‍🎓 I am currently studying a programming degree at UTN La Plata.
 - 📱 I am currently studying mobile development at the CFL404 Berisso.
-- 📫 How to reach me: email me [emiraleconegrete@gmail.com](mailto:emiraleconegrete@gmail.com), you can also contact me from my [website](https://Lawcito.github.io/portfolio/).
+- 📫 How to reach me: email me [emiraleconegrete@gmail.com](mailto:emiraleconegrete@gmail.com), you can also contact me from my [website](https://lawcito.vercel.app/).
 
 
 ## :hammer_and_wrench: Languages and Tools:
